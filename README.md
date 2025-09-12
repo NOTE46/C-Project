@@ -1,4 +1,4 @@
-# C Project 01- Compare Two Numbers
+# C Project 01: Compare Two Numbers
 
 This is a simple C program that takes two integers as input and compares them.
 
@@ -11,7 +11,7 @@ The program:
   - `"X is smaller than Y"` if x < y
   - `"X is equal to Y"` if x == y
 ---
-# C Project 02 - Simple Calculator in C
+# C Project 02: Simple Calculator in C
 
 This is a **basic calculator program** written in C that can perform simple arithmetic operations:
 
@@ -37,6 +37,18 @@ A simple C program to convert temperatures between Celsius, Fahrenheit, and Kelv
 - User-friendly menu-driven interface  
 - Handles decimal inputs for precise temperature values  
 - Step-by-step prompts guide the user through conversions
+ ---
+ # C Project 4: Currency Converter
+
+A simple C program to convert between Indian Rupees (INR) and US Dollars (USD).  
+Supports conversions in both directions and validates user input.
+
+**Features:**  
+- Convert Rupees → Dollars  
+- Convert Dollars → Rupees  
+- Handles decimal amounts  
+- Input validation with re-entry on invalid key  
+- User-friendly prompts and formatted output 
 
 
 
