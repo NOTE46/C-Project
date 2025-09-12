@@ -11,7 +11,7 @@ The program:
   - `"X is smaller than Y"` if x < y
   - `"X is equal to Y"` if x == y
 ---
-# Project 02 - Simple Calculator in C
+# C Project 02 - Simple Calculator in C
 
 This is a **basic calculator program** written in C that can perform simple arithmetic operations:
 
@@ -23,6 +23,21 @@ This is a **basic calculator program** written in C that can perform simple arit
 The program takes **two operands** and an **operator** from the user and outputs the result. It also handles **division by zero** gracefully.
 
 ---
+# C Project 3: Temperature Converter
+
+A simple C program to convert temperatures between Celsius, Fahrenheit, and Kelvin. Supports conversions in both directions, validates user input, and allows uppercase or lowercase keys (`C/c`, `F/f`, `K/k`).  
+
+**Features:**  
+- Fahrenheit ↔ Celsius  
+- Kelvin ↔ Celsius  
+- Celsius ↔ Kelvin  
+- Kelvin ↔ Fahrenheit  
+- Input validation with re-entry on invalid input
+- Case-insensitive selection (`C/c`, `F/f`, `K/k`)  
+- User-friendly menu-driven interface  
+- Handles decimal inputs for precise temperature values  
+- Step-by-step prompts guide the user through conversions
+
 
 
 
