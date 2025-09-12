@@ -1,4 +1,4 @@
-# C Project 01: Compare Two Numbers
+# C Project 01- Compare Two Numbers
 
 This is a simple C program that takes two integers as input and compares them.
 
