@@ -48,7 +48,30 @@ Supports conversions in both directions and validates user input.
 - Convert Dollars → Rupees  
 - Handles decimal amounts  
 - Input validation with re-entry on invalid key  
-- User-friendly prompts and formatted output 
+- User-friendly prompts and formatted output
+---
+# C Project 5: Distance Converter Project
+
+## Description
+This is a **C language program** that allows the user to convert distances between different units.  
+It supports conversion between:
+
+- Kilometer (km)  
+- Meter (m)  
+- Centimeter (cm)  
+- Miles (mi)  
+- Inches (in)  
+- Feet (ft)  
+
+The program is **interactive** and allows the user to perform multiple conversions without restarting.
+
+## Features
+- Converts any distance from one unit to another.  
+- Input validation to prevent incorrect entries.  
+- Option to continue converting multiple distances in the same run.  
+- Clear menu for selecting input and output units.
+---
+
 
 
 
